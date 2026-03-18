@@ -1,6 +1,6 @@
 # 陶量的自我介绍
 
-[<img src="https://via.placeholder.com/200" width="200">](https://github.com/Aday1000miles/natural_language_processing/blob/main/program_situation.png)
+![替代文字]()
 
 大家好，我是**陶量**，我的身份是*人工智能专业学生*。以下是我的自我介绍：
 
